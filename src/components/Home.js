@@ -9,7 +9,7 @@ function Home(props) {
             <h1>Home Component</h1>
             <div className="cart-wrapper">
                 <div className="img-wrapper item">
-                    <img src={Phone} alt='phone' />
+                    <img src={Phone} alt='phone ' />
                 </div>
                 <div className="text-wrapper item">
                     <span className="border-0">
